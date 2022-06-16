@@ -1,4 +1,8 @@
 //write include statement for decisions header
+#include "decisions.h"
+
+//Function that returns grade point
 
 
-//Write code for function(s) code here
+
+//Function that calculates GPA
